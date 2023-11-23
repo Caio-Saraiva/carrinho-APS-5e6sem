@@ -2,7 +2,13 @@
 Repositorio para conter o codigo utilizado no carrinho da APS do 5º e 6º Semestre
 
 # [Complete.ino]
-codigo contendo todas ad funcionalidades do carrinho
+codigo contendo todas ad funcionalidades do carrinho.
 
 # [OnlyMovement.ino]
-codigo com apenas a movimentação do carrinho
+codigo com apenas a movimentação do carrinho (designado para teste).
+
+# [TCS230]
+codigo para leitura dos valores RGB (designado para teste).
+
+# [ColorID]
+codigo para leitura e identificação das cores Vermelho, Verde e Amarelo.
