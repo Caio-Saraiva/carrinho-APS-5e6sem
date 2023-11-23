@@ -7,8 +7,8 @@ codigo contendo todas ad funcionalidades do carrinho.
 # [OnlyMovement.ino]
 codigo com apenas a movimentação do carrinho (designado para teste).
 
-# [TCS230]
+# [TCS230.ino]
 codigo para leitura dos valores RGB (designado para teste).
 
-# [ColorID]
+# [ColorID.ino]
 codigo para leitura e identificação das cores Vermelho, Verde e Amarelo.
